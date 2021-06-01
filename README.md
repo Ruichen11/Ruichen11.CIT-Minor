@@ -4,10 +4,10 @@
 * [Projects](#Projects)
 
 ## Labs
-[Lab 1!](https://github.com/Ruichen11/cit281-lab1.git)
+[Lab 1](https://github.com/Ruichen11/cit281-lab1.git)
 * Downloading software tools required for this course. Creating Node.js server-side Javascript file.
 
-Lab 2
+[Lab 2](https://github.com/Ruichen11/cit281-lab2.git)
 * Creating a git repository using command prompt. Learning how to add file to git, ignoring files, cloning cloud repos locally. 
 
 Lab 3
