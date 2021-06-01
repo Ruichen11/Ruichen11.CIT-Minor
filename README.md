@@ -2,7 +2,7 @@
 * [Labs](#Labs)
 * [Projects](#Projects)
 
-##Labs
+## Labs
 Lab 1
 * Downloading software tools required for this course. Creating Node.js server-side Javascript file.
 
