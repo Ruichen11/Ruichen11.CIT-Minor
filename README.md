@@ -1,4 +1,4 @@
- [Image](https://github.com/Ruichen11/Ruichen11.CIT-Minor/blob/9db5875a1774c6f179dac54d2a8e3ffc8db3c6b2/CIT%20picture.jpg)
+ ![Image](https://github.com/Ruichen11/Ruichen11.CIT-Minor/blob/9db5875a1774c6f179dac54d2a8e3ffc8db3c6b2/CIT%20picture.jpg)
 ## Table of contents
 * [Labs](#Labs)
 * [Projects](#Projects)
