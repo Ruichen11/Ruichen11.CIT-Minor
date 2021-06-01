@@ -10,7 +10,7 @@
 [Lab 2](https://github.com/Ruichen11/cit281-lab2.git)
 * Creating a git repository using command prompt. Learning how to add file to git, ignoring files, cloning cloud repos locally. 
 
-Lab 3
+[Lab 3](https://github.com/Ruichen11/cit281-lab3.git)
 * Practicing refactoring JavaScript code, practicing creating a node.js compartible code module using module.exports.
 
 Lab 4
