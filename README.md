@@ -4,7 +4,7 @@
 * [Projects](#Projects)
 
 ## Labs
-Lab 1
+[Lab 1!](https://github.com/Ruichen11/cit281-lab1.git)
 * Downloading software tools required for this course. Creating Node.js server-side Javascript file.
 
 Lab 2
