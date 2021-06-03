@@ -37,23 +37,26 @@
 * Creating learning lab course.repo within github account. 
 
 ## Projects
-Project 1
+[Project 1](https://ruichen11.github.io/cit281-p1/)
 * Create and execute a JavaScript file using Node.js and VSCode terminal and run and Debug.
 
-Project 2
+[Project 2](https://ruichen11.github.io/cit281-p2/)
 * Gain experience writing and executing non-web server Node.js Javascript code. 
 
-Project 3
+[Project 3](https://ruichen11.github.io/cit281-p3/)
 * Creating a code module that is capable of calculating the total value of coin objects. 
 
-Project 4
+[Project 4](https://ruichen11.github.io/cit281-p4/)
 * Creating a REST API that works with a data source of questions and answers. 
 
-Project 5
+[Project 5](https://ruichen11.github.io/cit281-p5/)
 * Extra Credit Project: Creating a Monster game using Classes which include class constructors and methods. 
 
-Project 6
+[Project 6](https://ruichen11.github.io/cit281-p6/)
 * Gain experience creating and working classes with inheritance. 
 
-Project 7
+[Project 7](https://ruichen11.github.io/cit281-p7/)
 * Creating a portfolio on Github for CIT Minor. 
+
+
+[Sourcecode](https://ruichen11.github.io/Ruichen11.CIT-Minor/)
