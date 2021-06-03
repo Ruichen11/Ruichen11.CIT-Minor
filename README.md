@@ -6,13 +6,16 @@
 
 ## Labs
 [Lab 1](https://ruichen11.github.io/cit281-lab1/)
-* Downloading software tools required for this course. Creating Node.js server-side Javascript file.
+* Downloading software tools required for this course. 
+* Creating Node.js server-side Javascript file.
 
 [Lab 2](https://ruichen11.github.io/cit281-lab2/)
-* Creating a git repository using command prompt. Learning how to add file to git, ignoring files, cloning cloud repos locally. 
+* Creating a git repository using command prompt. 
+* Learning how to add file to git, ignoring files, cloning cloud repos locally. 
 
 [Lab 3](https://ruichen11.github.io/cit281-lab3/)
-* Practicing refactoring JavaScript code, practicing creating a node.js compartible code module using module.exports.
+* Practicing refactoring JavaScript code, 
+* practicing creating a node.js compartible code module using module.exports.
 
 [Lab 4](https://ruichen11.github.io/cit281-lab4/)
 * Creating a fastify node.js web server. 
@@ -27,7 +30,8 @@
 * Creating own GitHub organization for the CIT minor. 
 
 [Lab 8](https://ruichen11.github.io/cit281-lab8/)
-* Learning to Fetch JSONPlaceholder data, Add fastify and node-fetch require statement. 
+* Learning to Fetch JSONPlaceholder data.
+* Add fastify and node-fetch require statement. 
 
 [Lab 9](https://ruichen11.github.io/cit281-lab9/)
 * Creating learning lab course.repo within github account. 
